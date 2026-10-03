@@ -1,2 +1,2 @@
 TOKEN = ""
-DATABASE = "portfoLyo.db"
+DATABASE = "portfolyo.db"
