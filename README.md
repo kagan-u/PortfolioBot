@@ -90,9 +90,3 @@ Discord üzerinden kişisel projelerinizi ekleyip yönetebileceğiniz, SQLite ta
 
 - Python 3.8+
 - `discord.py`
-
-## Notlar
-
-- Bot, Discord Developer Portal'da `Message Content Intent` etkinleştirilmiş olmalıdır.
-- `modal.py` dosyasındaki proxy ve token değerleri örnek amaçlıdır; kendi ortamınıza göre düzenleyin.
-- `ekgorev.py` projeyle ilgili olmayan, ayrı bir alıştırma dosyasıdır.
